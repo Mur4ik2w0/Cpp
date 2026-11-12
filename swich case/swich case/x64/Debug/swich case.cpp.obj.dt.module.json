@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "swich case\\x64\\Debug\\swich case.obj",
+            "outputs": [
+                "swich case\\x64\\Debug\\swich case.cpp.obj.dt.module.json",
+                "swich case\\x64\\Debug\\swich case.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

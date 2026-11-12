@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\swich case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4176BD0-EF2D-4F1E-AB28-6932D77C263B}|swich case.vcxproj|C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\swich case\\swich case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4176BD0-EF2D-4F1E-AB28-6932D77C263B}|swich case.vcxproj|solutionrelative:swich case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swich case.cpp",
+              "DocumentMoniker": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\swich case\\swich case.cpp",
+              "RelativeDocumentMoniker": "swich case.cpp",
+              "ToolTip": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\swich case\\swich case.cpp",
+              "RelativeToolTip": "swich case.cpp",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T05:24:04.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

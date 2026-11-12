@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\FP_\u0414\u0417_04_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1960F93C-6DBC-46FE-BCC3-68F4800365BB}|FP_\u0414\u0417_04_01.vcxproj|C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\FP_\u0414\u0417_04_01\\FP_\u0414\u0417_04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1960F93C-6DBC-46FE-BCC3-68F4800365BB}|FP_\u0414\u0417_04_01.vcxproj|solutionrelative:FP_\u0414\u0417_04_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FP_\u0414\u0417_04_01.cpp",
+              "DocumentMoniker": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\FP_\u0414\u0417_04_01\\FP_\u0414\u0417_04_01.cpp",
+              "RelativeDocumentMoniker": "FP_\u0414\u0417_04_01.cpp",
+              "ToolTip": "C:\\Users\\mur4i\\Documents\\GitHub\\Cpp\\FP_\u0414\u0417_04_01\\FP_\u0414\u0417_04_01.cpp",
+              "RelativeToolTip": "FP_\u0414\u0417_04_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T04:49:03.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
