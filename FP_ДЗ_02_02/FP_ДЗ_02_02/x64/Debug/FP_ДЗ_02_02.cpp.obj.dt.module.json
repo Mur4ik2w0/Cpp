@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FP_ДЗ_02_02\\x64\\Debug\\FP_ДЗ_02_02.obj",
+            "outputs": [
+                "FP_ДЗ_02_02\\x64\\Debug\\FP_ДЗ_02_02.cpp.obj.dt.module.json",
+                "FP_ДЗ_02_02\\x64\\Debug\\FP_ДЗ_02_02.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

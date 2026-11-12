@@ -1,0 +1,6 @@
+﻿  FP_ДЗ_02_02.cpp
+C:\Users\mur4i\Documents\GitHub\Cpp\FP_ДЗ_02_02\FP_ДЗ_02_02.cpp(32,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mur4i\Documents\GitHub\Cpp\FP_ДЗ_02_02\FP_ДЗ_02_02.cpp(33,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mur4i\Documents\GitHub\Cpp\FP_ДЗ_02_02\FP_ДЗ_02_02.cpp(64,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mur4i\Documents\GitHub\Cpp\FP_ДЗ_02_02\FP_ДЗ_02_02.cpp(65,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  FP_ДЗ_02_02.vcxproj -> C:\Users\mur4i\Documents\GitHub\Cpp\FP_ДЗ_02_02\x64\Debug\FP_ДЗ_02_02.exe
